@@ -1,6 +1,6 @@
 # nuxt-contentful-demo
 
-> Nuxt.js project
+> Nuxt.js project built following the step by step guide: https://www.contentful.com/blog/2019/06/14/build-website-nuxt-contentful/
 
 ## Build Setup
 
@@ -20,6 +20,3 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
-
-## Review of Contentful
